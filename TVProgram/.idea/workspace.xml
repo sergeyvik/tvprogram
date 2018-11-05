@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9121a42e-16a7-4385-b8da-d7067fed972d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../TVPsimple/.idea/TVPsimple.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TVPsimple/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TVPsimple/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TVPsimple/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TVPsimple/.idea/runConfigurations/bin_www.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TVPsimple/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TVPsimple/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TVPsimple/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TVPsimple/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TVPsimple/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TVPsimple/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TVPsimple/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TVPsimple/package.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -164,15 +159,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1541426663824</updated>
-      <workItem from="1541426737281" duration="4369000" />
+      <workItem from="1541426737281" duration="4786000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4369000" />
+    <option name="totallyTimeSpent" value="4786000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="npm" side_tool="true" />
       <window_info id="Favorites" side_tool="true" />
